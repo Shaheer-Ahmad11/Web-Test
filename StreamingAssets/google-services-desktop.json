@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "317004654261",
+    "firebase_url": "https://addressablestest-510c8-default-rtdb.firebaseio.com",
+    "project_id": "addressablestest-510c8",
+    "storage_bucket": "addressablestest-510c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317004654261:android:40458446c59f58dc1480fc",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.Firebase_test_Addressables"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSeI4y-TVvD6bt0GpFgRuXK9ZEkmceuRo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317004654261:android:a0d522d70d09dd021480fc",
+        "android_client_info": {
+          "package_name": "com.dronecadets.droneflightschool"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSeI4y-TVvD6bt0GpFgRuXK9ZEkmceuRo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
